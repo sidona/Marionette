@@ -1,0 +1,39 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="MongoBlogPentalog:war exploded">
+    <output-path>$PROJECT_DIR$/target/MongoBlogPentalog</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="MongoBlogPentalog/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="MongoBlogPentalog" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: log4j:log4j:1.2.17" />
+          <element id="library" level="project" name="Maven: taglibs:standard:1.1.2" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:4.0.2.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:4.0.2.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:4.0.2.RELEASE" />
+          <element id="library" level="project" name="Maven: commons-logging:commons-logging:1.1.3" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:4.0.2.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:4.0.2.RELEASE" />
+          <element id="library" level="project" name="Maven: aopalliance:aopalliance:1.0" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-expression:4.0.2.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:4.0.2.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework.data:spring-data-mongodb:1.4.0.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-tx:3.2.8.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework.data:spring-data-commons:1.7.0.RELEASE" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.6" />
+          <element id="library" level="project" name="Maven: org.slf4j:jcl-over-slf4j:1.7.6" />
+          <element id="library" level="project" name="Maven: org.mongodb:mongo-java-driver:2.11.4" />
+          <element id="library" level="project" name="Maven: javax.servlet.jsp.jstl:jstl-api:1.2" />
+          <element id="library" level="project" name="Maven: org.apache.commons:commons-lang3:3.1" />
+          <element id="library" level="project" name="Maven: org.codehaus.jackson:jackson-mapper-asl:1.9.10" />
+          <element id="library" level="project" name="Maven: org.codehaus.jackson:jackson-core-asl:1.9.10" />
+          <element id="library" level="project" name="Maven: commons-codec:commons-codec:1.7" />
+          <element id="library" level="project" name="Maven: commons-io:commons-io:2.4" />
+          <element id="library" level="project" name="Maven: commons-fileupload:commons-fileupload:1.3.1" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

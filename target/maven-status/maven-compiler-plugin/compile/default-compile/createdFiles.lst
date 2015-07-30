@@ -1,0 +1,10 @@
+blog\controller\NewArticleController.class
+blog\model\Comment.class
+blog\controller\CommentController.class
+blog\cors\CorsFilter.class
+blog\model\NewArticle.class
+blog\cors\ObscenWord.class
+blog\dao\ArticleDao.class
+blog\service\ArticleService.class
+blog\model\Article.class
+blog\controller\BlogController.class
